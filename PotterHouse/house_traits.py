@@ -45,6 +45,6 @@ house_summaries = {
         "\nSeverus Snape, Merlin, Draco Malfoy, Leta Lestrange.\nTom Riddle (Voldemort), Bellatrix Lestrange, Horace Slughorn, Phineas Nigellus Black.\n"
         "\n🌎 Famous Witches and Wizards in the Muggle World 🌎"
         "\nElon Musk, Madonna, Cleopatra, Niccolò Machiavelli.\nTaylor Swift, Angelina Jolie, Tom Hiddleston, Lady Gaga.\n"        
-        "\nGrow Strong in your House and may your Name be Remember Amoung the Greatest in Hufflepuff History!"
+        "\nGrow Strong in your House and may your Name be Remember Amoung the Greatest in Slytherin History!"
     ),
 }
